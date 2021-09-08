@@ -1,2 +1,2 @@
-# mynNotes
+# myNotes
 this is my notes
